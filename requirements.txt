@@ -1,0 +1,28 @@
+# ============================================================
+# DEPENDENCIAS DEL PROYECTO
+# Inversión en I+D en Argentina (2004-2024)
+# ============================================================
+
+# --- Manipulación de datos ---
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# --- Visualización ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+
+# --- Dashboard ---
+streamlit>=1.30.0
+
+# --- Estadística y modelado ---
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# --- Notebooks ---
+jupyter>=1.0.0
+
+# --- Tests ---
+pytest>=7.4.0
+pytest-cov>=4.1.0
