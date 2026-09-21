@@ -262,17 +262,16 @@ Incluye:
 
 ## 👤 Autor
 
-**[Tu Nombre Completo]**
 
-- 📧 Email: [tu-email@ejemplo.com]
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🐙 GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
+- 📧 Email: dstoccoanalytics@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/david-stocco-35ba40278/
+- 🐙 GitHub: https://github.com/davidstocco2024-cell
 
 ---
 
 ## 🙏 Agradecimientos
 
-- Fuente de datos: [Nombre de la institución]
+- Fuente de datos proporcionada por: https://www.linkedin.com/in/federicosiso/
 - Inspirado en las mejores prácticas de análisis de datos abiertos
 
 ---
