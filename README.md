@@ -9,7 +9,7 @@
 
 Análisis exploratorio, estadístico y visual de la **inversión en Investigación y Desarrollo (I+D)** en Argentina durante el período **2004-2024**, desagregada por **sector de ejecución**, **jurisdicción** y **disciplina científica**.
 
-**🚀 Dashboard interactivo en vivo:** [rd-investment-ar.streamlit.app](https://rd-investment-ar.streamlit.app)
+**🚀 Dashboard interactivo en vivo:** [[rd-investment-ar.streamlit.app](https://rd-investment-ar.streamlit.app)](https://rd-investment-ar.streamlit.app/)
 
 ---
 
